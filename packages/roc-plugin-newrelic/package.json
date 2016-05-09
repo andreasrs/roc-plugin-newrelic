@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/andreasrs/roc-template-plugin"
+    "url": "https://github.com/andreasrs/roc-plugin-newrelic"
   },
   "dependencies": {
     "newrelic": "^1.27.2",
